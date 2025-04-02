@@ -40,7 +40,7 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="bg-gray-200 pb-12 min-w-500">
+      <main className="bg-gray-200 pb-12 min-w-400">
         <div className='flex flex-col items-center'>
 
           {/* title */}
